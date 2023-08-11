@@ -4,6 +4,7 @@ const CACHE_NAME = 'WebDeveloper',
   urlsToCache = [
     './',
     './index.html',
+    './sobrenosotros.html',
     './css/style.min.css',
     './css/style.css',
 
