@@ -12,6 +12,7 @@
     "no-inline-styles": "off",
     "axe/forms": "off",
     "axe/name-role-value": "off",
-    "apple-touch-icons": "off"
+    "apple-touch-icons": "off",
+    "compat-api/css": "off"
   }
 }
