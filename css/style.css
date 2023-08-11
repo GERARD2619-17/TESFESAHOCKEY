@@ -157,7 +157,7 @@ a:hover {
   text-decoration: underline;
 }
 
-a:not([href]):  color: #F9A392;
+a:not([href]){  color: #F9A392;
 lor: inherit;
   text-decoration: none;
 }
@@ -210,6 +210,7 @@ caption {
 
 th {
   text-align: -webkit-match-parent;
+  text-align: inherit;
 }
 
 label {
