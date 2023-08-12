@@ -533,6 +533,10 @@ mark,
   height: auto;
 }
 
+.img-center{
+  text-align: center;
+}
+
 .figure {
   display: inline-block;
 }
