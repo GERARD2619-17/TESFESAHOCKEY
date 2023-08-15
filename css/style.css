@@ -9789,12 +9789,12 @@ h6,
 }
 
 
-
 .tabla-posiciones {
-  background-image: url("img/blue_background.jpg");
+  background-image: url("./pwa/images/icons/blue_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 .titulo-tabla {
   color: white;
