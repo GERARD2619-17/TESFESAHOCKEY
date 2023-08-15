@@ -9718,7 +9718,7 @@ h6,
 
   
 .caja-resultados {
-  background-image: url("assets/fondo-resultados.jpg");
+  background-image: url("img/fondo-resultados.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -9791,7 +9791,7 @@ h6,
 
 
 .tabla-posiciones {
-  background-image: url("./img/blue_background.jpg");
+  background-image: url("img/blue_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
