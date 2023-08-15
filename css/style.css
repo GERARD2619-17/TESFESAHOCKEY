@@ -49,7 +49,7 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-
+/* cambia el color del cuerpo*/
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
@@ -58,7 +58,7 @@ body {
   line-height: 1.5;
   color: #757575;
   text-align: left;
-  background-color: #fff;
+  background-color: #030EFE ;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
