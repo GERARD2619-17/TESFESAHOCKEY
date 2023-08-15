@@ -9713,12 +9713,10 @@ h6,
   height: auto;
   padding: 20px;
   margin: auto;
+  
 }
 
-.logo-whatsapp {
-  width: 50px;
-}
-
+  
 .caja-resultados {
   background-image: url("assets/fondo-resultados.jpg");
   background-repeat: no-repeat;
@@ -9793,7 +9791,7 @@ h6,
 
 
 .tabla-posiciones {
-  background-image: url("assets/blue_background.jpg");
+  background-image: url("img/blue_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -9867,4 +9865,3 @@ th {
   background: #0a50ac;
   cursor: pointer;
 }
-
