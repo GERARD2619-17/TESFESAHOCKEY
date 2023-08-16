@@ -9708,16 +9708,22 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+
+
 /* style tabla de posiciones*/
 .titulo {color:blue;padding: 40px;}.foto-perfil{width: 200px;
   height: auto;
   padding: 20px;
   margin: auto;
-  
+}
+
+.logo-whatsapp {
+  width: 50px;
 }
 
 .caja-resultados {
-  background-image: url("img/fondo-resultados.jpg");
+  background-image: url("assets/fondo-resultados.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -9788,12 +9794,12 @@ h6,
 }
 
 
+
 .tabla-posiciones {
-  background-image: url("./pwa/images/icons/blue_background.jpg");
+  background-image: url("./assets/blue_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 
 .titulo-tabla {
   color: white;
@@ -9864,3 +9870,4 @@ th {
   background: #0a50ac;
   cursor: pointer;
 }
+
