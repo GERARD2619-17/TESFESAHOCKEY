@@ -9799,9 +9799,10 @@ h6,
 
 .tabla-posiciones {
   background-image: url("./assets/blue_background.jpg");
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100%;
+  padding: auto;
 }
 
 .titulo-tabla {
