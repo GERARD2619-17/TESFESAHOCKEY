@@ -9801,6 +9801,7 @@ h6,
   background-image: url("./assets/blue_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 100%;
 }
 
 .titulo-tabla {
