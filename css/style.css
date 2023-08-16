@@ -60,6 +60,8 @@ body {
   color: #757575;
   text-align: left;
   background-color: #fbfbfb ;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6179,6 +6181,7 @@ button.bg-dark:focus {
 }
 /*------------------------------------------------*/
 /* Color de nav bar */
+/*colo barra navegadora*/
 .bg-white {
   background-color: #fff !important;
   background-color: transparent;
