@@ -628,14 +628,14 @@ pre code {
     max-height: 340px;
     overflow-y: scroll
 }
-
+/* dato original 100%*/
 .container,
 .container-fluid,
 .container-sm,
 .container-md,
 .container-lg,
 .container-xl {
-    width: 100%;
+    width: 50%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
