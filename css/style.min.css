@@ -10587,7 +10587,7 @@ a.text-dark:focus {
     }
 
     .container {
-        min-width: 992px !important
+        min-width: 600px !important
     }
 
     .navbar {
