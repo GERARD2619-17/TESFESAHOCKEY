@@ -10009,6 +10009,7 @@ body {
 
 .about {
     text-align: center;
+
 }
 
 .subtitle {
@@ -10047,10 +10048,10 @@ body {
 }
 
 /* Knowledge */
-
+/*main*/
 .knowledge {
-    background-color: #e5e5f7;
-    background-image: radial-gradient(#250481 0.5px, transparent 0.5px), radial-gradient(#250481 0.5px, #e5e5f7 0.5px);
+    /*background-color: #e5e5f7;*/
+    background: linear-gradient(rgba(59,66,159,0.10),rgba(209,216,243,0.10));  
     background-size: 20px 20px;
     background-position: 0 0, 10px 10px;
     overflow: hidden;
@@ -10061,6 +10062,7 @@ body {
     grid-template-columns: 1fr 1fr;
     gap: 1em;
     align-items: center;
+    
 }
 
 .knowledge__picture{
