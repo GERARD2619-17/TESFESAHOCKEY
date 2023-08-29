@@ -10062,6 +10062,8 @@ body {
     grid-template-columns: 1fr 1fr;
     gap: 1em;
     align-items: center;
+    background-size: cover;
+    background-attachment: fixed;
     
 }
 
