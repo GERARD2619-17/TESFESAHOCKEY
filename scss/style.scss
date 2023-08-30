@@ -87,21 +87,37 @@ h6,
 @-webkit-keyframes action {
     0% {
         transform: translateY(0);
-    }
+        -webkit-transform:;
+        -moz-transform:;
+        -ms-transform:;
+        -o-transform:;
+}
 
     100% {
         transform: translateY(-15px);
-    }
+        -webkit-transform:;
+        -moz-transform:;
+        -ms-transform:;
+        -o-transform:;
+}
 }
 
 @keyframes action {
     0% {
         transform: translateY(0);
-    }
+        -webkit-transform:;
+        -moz-transform:;
+        -ms-transform:;
+        -o-transform:;
+}
 
     100% {
         transform: translateY(-15px);
-    }
+        -webkit-transform:;
+        -moz-transform:;
+        -ms-transform:;
+        -o-transform:;
+}
 }
 
 .navbar-light .navbar-nav .nav-link {
