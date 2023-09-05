@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
-
+/*detalles de text*/
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -9189,7 +9189,8 @@ button.bg-dark:focus {
 .text-right {
   text-align: right !important;
 }
-
+/*centrar  texto*/
+/*para centrar text en social*/
 .text-center {
   text-align: center !important;
 }
@@ -9661,7 +9662,8 @@ h6,
 .team:hover .team-text {
   top: 100px;
 }
-
+/* imagenes sociales*/
+/*seccion para centrar las imagenes*/
 .team .team-social {
   position: absolute;
   width: 100%;
@@ -9673,6 +9675,20 @@ h6,
   justify-content: center;
   transition: .5s;
 }
+/*
+.team .team-socialtex {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  top: -100px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: .5s;
+  line-height: 1.7;
+  margin-top: 0%;
+}*/
 
 .team:hover .team-social {
   top: 0;
@@ -9724,6 +9740,7 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
 /*--------------------------------------------------*/
 /* style-tabla-tabla de pisicion.html*/
 .titulo {color:blue;padding: 40px;}.foto-perfil{width: 200px;
