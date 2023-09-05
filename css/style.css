@@ -9674,6 +9674,8 @@ h6,
   align-items: center;
   justify-content: center;
   transition: .5s;
+  background-color: #FFF;
+  text-align: center;
 }
 /*
 .team .team-socialtex {

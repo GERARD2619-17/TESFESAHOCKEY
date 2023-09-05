@@ -69,6 +69,20 @@
      );
      });
     </script>
+
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/regist_serviceWorker.js')
+            .then(function(reg) {
+                console.log('Service worker registrado.');
+            })
+            .catch(function(err) {
+                console.error('Error al registrar el service worker:', err);
+            });
+    }
+    </script>
+ 
+
     <!-- Topbar Start -->
     <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row py-2 px-lg-5">
