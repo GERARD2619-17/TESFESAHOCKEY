@@ -13,3 +13,10 @@ if ("serviceWorker" in navigator) {
       .catch(err => console.log("service worker not registered", err))
   })
 } */
+self.addEventListener('fetch', function(e) {
+  e.respondWith(
+      caches.match(e.request).then(function(response) {
+          return response || fetch(e.request);
+      })
+  );
+});
