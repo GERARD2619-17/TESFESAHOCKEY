@@ -9858,6 +9858,24 @@ h6,
   font-family: 'Kanit', sans-serif;
 }
 
+.subtitulo-tablah2 {
+  color: white;
+  padding: 2.5%;
+  text-align: center;
+  margin: auto;
+  font-size: 5px;
+  font-family: 'Kanit', sans-serif;
+}
+
+.texto-descripsion {
+  color: white;
+  padding: 2.5%;
+  text-align: center;
+  margin: auto;
+  font-size: 5px;
+  font-family: 'Kanit', sans-serif;
+}
+
 .linea-tabla {
   margin-top: 30px;
   padding: 1px;
@@ -10524,6 +10542,15 @@ body {
     .subtitle{
         font-size: 1.8rem;
     }
+/*
+    .subtitle__h2{
+      color: white;
+    padding: 2.5%;
+    text-align: center;
+    margin: auto;
+    font-size: 7.5px;
+    font-family: 'Kanit', sans-serif;
+    }*/
 
     .price__element{
         width: 90%;
